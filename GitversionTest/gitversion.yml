@@ -1,0 +1,3 @@
+﻿mode: Mainline
+assembly-versioning-scheme: MajorMinorPatch
+next-version: 1.0.0
